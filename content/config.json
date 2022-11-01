@@ -1,0 +1,30 @@
+{
+  "title": "Emmanuel Sekyi's Blog",
+  "url": "https://www.esekyi.com/",
+  "subtitle": "Data Engineer. Machine Learning Engineer. Cloud Engineer",
+  "copyright": "© All rights reserved.",
+  "googleAnalyticsId": "UA-139872255-1",
+  "disqusShortname": "",
+  "postsLimit": 7,
+  "pathPrefix": "/",
+  "menu": [
+    {
+      "label": "Articles",
+      "path": "/"
+    },
+    {
+      "label": "About me",
+      "path": "/pages/about"
+    }
+  ],
+  "author": {
+    "name": "Emmanuel Sekyi",
+    "photo": "/photo.jpg",
+    "bio": "Data Engineer. Machine Learning Engineer. Cloud Engineer",
+    "contacts": {
+      "github": "theSekyi",
+      "twitter": "thesekyi",
+      "linkedin": "thesekyi"
+    }
+  }
+}
